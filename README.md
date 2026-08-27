@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<img src="assets/teaser.pdf" width="100%">
+<img src="assets/teaser.png" width="100%">
 
 </div>
 
